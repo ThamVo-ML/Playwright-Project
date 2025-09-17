@@ -90,13 +90,13 @@
     5. Create a pull request with:
         - Source: the ticket branch
         - Destination: the develop branch
-        - Note: Add a clear title and description (Ex: "Add automation scripts for ticket SP0174-2686")
+        - Note: Add a clear title and description (Ex: "Add automation scripts for ticket SP0151-2686")
         5.1. If conflicts occur after creating the pull request, the branch owner must resolve them immediately
     6. Run the test scripts using the ticket branch and attach the report in the pull request for the reviewer to review
     7. After the informal review is completed, the reviewer will approve and merge the ticket's pull request into the develop branch
     8. Formal execution will be executed on the develop branch
  
     *** Branch naming convention:
-        Writing new automation test scripts: SCRIPTING/SP0174-2686
-        Maintaining or updating existing test scripts for a specific ticket: MAINTENANCE/SP0174-2686
+        Writing new automation test scripts: SCRIPTING/SP0151-2686
+        Maintaining or updating existing test scripts for a specific ticket: MAINTENANCE/SP0151-2686
 ```
