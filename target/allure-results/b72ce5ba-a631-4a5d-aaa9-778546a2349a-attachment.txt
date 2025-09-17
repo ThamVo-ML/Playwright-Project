@@ -1,0 +1,1 @@
+[21:43:17 WARN] - Using the Surefire suite because not found the SUITE in the Test Class: com.icon.sct.tests.SimpleTest

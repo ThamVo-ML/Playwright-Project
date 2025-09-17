@@ -1,0 +1,3 @@
+[21:43:37 PASSED] - Locator 'CommonLocators/sctHomePage' is present after '0.1' seconds
+[21:43:37 PASSED] - Login on the SCT Application web page successfully
+[21:43:38 INFO] - A Windows Screenshot was taken - [SCT_3.x.x-1_simpleTest_SS03.png]

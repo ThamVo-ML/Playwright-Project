@@ -1,0 +1,2 @@
+[21:43:14 PASSED] - Playwright has been created
+[21:43:16 PASSED] - Create Browser with type [chrome] successfully

@@ -1,0 +1,5 @@
+[21:43:47 PASSED] - Text '81041428-831466' is set on Locator 'AddEditProjectModal/searchBox'
+[21:43:48 INFO] - Page is loaded after '0.0' second(s)
+[21:43:51 PASSED] - Locator 'AddEditProjectModal/projectCodeLink' is clicked on
+[21:43:52 PASSED] - Locator 'AddEditProjectModal/protocolHeader' is visible after '0.4' seconds
+[21:43:52 INFO] - A Windows Screenshot was taken - [SCT_3.x.x-1_simpleTest_SS05.png]

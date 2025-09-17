@@ -1,0 +1,12 @@
+[21:43:52 PASSED] - Locator 'AddEditProjectModal/protocolAddButton' is clicked on
+[21:43:53 INFO] - Page is loaded after '0.5' second(s)
+[21:43:53 PASSED] - Locator 'AddEditProjectModal/addProtocolHeader' is visible after '0.0' seconds
+[21:43:53 PASSED] - Selected option by label 'Clinical Trial' from Locator 'AddEditProjectModal/selectProtocolType'
+[21:43:53 PASSED] - Text 'Test Protocol01088' is set on Locator 'AddEditProjectModal/protocolNameInput'
+[21:43:53 PASSED] - Selected option by label 'OFF' from Locator 'AddEditProjectModal/selectDocManagement'
+[21:43:53 PASSED] - Selected option by label 'Full Service' from Locator 'AddEditProjectModal/selectContractType'
+[21:43:53 PASSED] - Locator 'AddEditProjectModal/queryManagementSwitch' is clicked on
+[21:43:56 PASSED] - Locator 'AddEditProjectModal/saveBtn' is clicked (enhancedClick) on
+[21:43:58 INFO] - A Windows Screenshot was taken - [SCT_3.x.x-1_simpleTest_SS06.png]
+[21:43:58 PASSED] - Locator 'AddEditProjectModal/successAlert' is visible after '0.0' seconds
+[21:43:59 INFO] - A Windows Screenshot was taken - [SCT_3.x.x-1_simpleTest_SS07.png]

@@ -1,0 +1,9 @@
+[21:43:19 PASSED] - Navigated to URL 'https://sctdrun.iconcr.com/'
+[21:43:20 INFO] - Page is loaded after '1.5' second(s)
+[21:43:20 INFO] - Page is loaded after '0.0' second(s)
+[21:43:20 PASSED] - Text 'tham.vo@iconplc.com' is set on Locator 'LoginLocators/LoginInput'
+[21:43:22 INFO] - A Windows Screenshot was taken - [SCT_3.x.x-1_simpleTest_SS01.png]
+[21:43:22 PASSED] - Locator 'LoginLocators/nextBtn' is clicked on
+[21:43:22 INFO] - Page is loaded after '0.0' second(s)
+[21:43:32 PASSED] - Signed in to the SCT Application web page
+[21:43:32 INFO] - A Windows Screenshot was taken - [SCT_3.x.x-1_simpleTest_SS02.png]

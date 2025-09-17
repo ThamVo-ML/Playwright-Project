@@ -1,0 +1,10 @@
+[21:43:38 PASSED] - Locator 'SCTBasePage/addBtn' is clicked (enhancedClick) on
+[21:43:44 PASSED] - Locator 'AddEditProjectModal/addProjectHeader' is visible after '0.0' seconds
+[21:43:44 PASSED] - Selected option by label 'IBT' from Locator 'AddEditProjectModal/selectBusinessLine'
+[21:43:44 PASSED] - Selected option by label 'XXXXXXXX-XXXXXX' from Locator 'AddEditProjectModal/selectProjectCodeFormat'
+[21:43:44 PASSED] - Text '81041428-831466' is set on Locator 'AddEditProjectModal/projectCodeInput'
+[21:43:44 PASSED] - Text 'VTH Test 920' is set on Locator 'AddEditProjectModal/clientNameInput'
+[21:43:44 PASSED] - Locator 'AddEditProjectModal/saveBtn' is clicked (enhancedClick) on
+[21:43:47 PASSED] - Project added successfully
+[21:43:47 PASSED] - Locator 'SCTBasePage/successAlert' is visible after '0.0' seconds
+[21:43:47 INFO] - A Windows Screenshot was taken - [SCT_3.x.x-1_simpleTest_SS04.png]
