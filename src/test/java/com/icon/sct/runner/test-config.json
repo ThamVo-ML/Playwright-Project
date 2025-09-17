@@ -1,0 +1,18 @@
+{
+    "trigger": true,
+    "environment": "formal",
+    "parallelSuite": false,
+    "parallelClass": false,
+    "suites": [
+        {
+            "suiteName": "SP0174-Forward+_3.x.x_Enable ability to Edit Project Roles",
+            "classes": [
+                {
+                    "className": "SP0174_2686_Test",
+                    "methods": []
+                }
+
+            ]
+        }
+    ]
+}

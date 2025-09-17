@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Run XML" parallel="classes" thread-count="2">
+    <parameter name="allure.results.directory" value="target/allure-results/suite1"/>
+    <test name="Suite 1 Tests">
+        <classes>
+            <class name="com.icon.forwardplus.tests.SP0174_2222.SP0174_2222_Test"/>
+            <!-- <class name="com.icon.forwardplus.tests.Login2Test"/> -->
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,16 @@
+{
+    "trigger": false,
+    "environment": "informal",
+    "parallelSuite": false,
+    "parallelClass": false,
+    "suites": [
+        {
+            "suiteName": "Smoke",
+            "groups": ["Sprint 1.4"]
+        },
+        {
+            "suiteName": "Regression",
+            "groups": ["Sprint 1.6"]
+        }
+    ]
+}

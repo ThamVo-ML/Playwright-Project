@@ -1,0 +1,5 @@
+[19:45:42 PASSED] - Locator 'CommonLocators/userNavigation' is clicked on
+[19:45:42 PASSED] - Locator 'CommonLocators/logOff' is clicked on
+[19:45:43 PASSED] - Locator 'CommonLocators/reLogin' is visible after '0.3' seconds
+[19:45:43 PASSED] - Logout of the SCT Application web page successfully
+[19:45:43 INFO] - A Windows Screenshot was taken - [SCT_x.x.x.x-1_addFirstProjectProtocol_SS08.png]

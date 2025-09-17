@@ -1,0 +1,19 @@
+[19:45:46 PASSED] - Navigated to URL 'https://sctdrun.iconcr.com/'
+[19:45:48 INFO] - Page is loaded after '2.2' second(s)
+[19:45:48 INFO] - Page is loaded after '0.0' second(s)
+[19:46:18 FAILED] - Set text on Locator 'LoginLocators/LoginInput' - [//input[@type='email']] failed. Details: com.microsoft.playwright.TimeoutError: Error {
+  message='Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=//input[@type='email']")
+============================================================
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator("xpath=//input[@type='email']")
+============================================================
+    at ProgressController.run (C:\Users\VoTha\AppData\Local\Temp\playwright-java-403703909782209034\package\lib\server\progress.js:88:26)
+    at Frame.fill (C:\Users\VoTha\AppData\Local\Temp\playwright-java-403703909782209034\package\lib\server\frames.js:1055:23)
+    at FrameDispatcher.fill (C:\Users\VoTha\AppData\Local\Temp\playwright-java-403703909782209034\package\lib\server\dispatchers\frameDispatcher.js:161:30)
+    at DispatcherConnection.dispatch (C:\Users\VoTha\AppData\Local\Temp\playwright-java-403703909782209034\package\lib\server\dispatchers\dispatcher.js:319:46)
+}
+[19:46:18 INFO] - A Windows Screenshot was taken - [SCT_x.x.x.x-2_addSecondProjectProtocol_SS01.png]
